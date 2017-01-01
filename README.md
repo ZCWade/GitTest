@@ -1,4 +1,0 @@
-#GitTest
-
-FUCK ME
-#FUCK YOU TOO
