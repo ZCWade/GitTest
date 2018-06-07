@@ -1,3 +1,20 @@
+# 2018.06.07  
+My bed is so comfortable.  
+我的床相当舒服。  
+We are at school.  
+我们在学校。  
+I'm scared of the bear, don't let it get near me !  
+我怕熊，别让它靠近我！  
+She knew the answer and held her hand up.  
+她知道答案并举了手。  
+Fish have very simple lives.  
+鱼过着很简单的生活。  
+That tree is very old.  
+那颗树有些年头了。  
+My head aches - maybe I think too much.  
+头好痛，也许是我用脑太多了。  
+
+
 # 2018.06.04  
 He has became a famous doctor at a youny age.  
 尽管年级不大，但他已经成为了一个名医。  
