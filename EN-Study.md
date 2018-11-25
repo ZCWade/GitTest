@@ -1,3 +1,5 @@
+------
+
 # 2018.06.07  
 My bed is so comfortable.  
 我的床相当舒服。  
@@ -13,6 +15,8 @@ That tree is very old.
 那颗树有些年头了。  
 My head aches - maybe I think too much.  
 头好痛，也许是我用脑太多了。  
+
+------
 
 
 # 2018.06.04  
@@ -39,6 +43,8 @@ The bear was his favorite toy.
 
 
 
+------
+
 # 2018.05.29  
 The child colored many pictures with crayons.  
 小孩子用蜡笔给许多画涂上颜色。  
@@ -55,7 +61,10 @@ She wears a pink dress.
 Their grandpa always reads stories to them.  
 爷爷总是讲故事给他们听。  
 
+------
+
 # 2018.05.28  
+
 This panda is so cute.   
 这只熊猫真可爱。   
 My dog can stand on his feet!  
